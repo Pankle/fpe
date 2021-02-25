@@ -8,13 +8,7 @@
 
 您可以从中央Maven存储库中提取它:
 
-```xml
-<dependency>
-  <groupId>com.anji.src</groupId>
-  <artifactId>format-preserving-encryption</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
+
 
 ## 特性
 
